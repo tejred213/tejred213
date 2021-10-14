@@ -6,3 +6,5 @@
  
 
  this is my first commit 
+
+here is what i am going to write all the things about me.. UwU
