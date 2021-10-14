@@ -8,4 +8,3 @@
  this is my first commit 
 
 here is what i am going to write all the things about me.. UwU
-https://github.com/tejred213/tejred213
