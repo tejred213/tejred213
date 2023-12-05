@@ -36,3 +36,6 @@ Innovative Programmer & Python Enthusiast striving to make the world a more unif
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/tejred213/Movie-Recommender" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tejred213&repo=Movie-Recommender&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/tejred213/FSD-Netflix_clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tejred213&repo=FSD-Netflix_clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/tejred213/SMS-Spam-Classifier" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tejred213&repo=SMS-Spam-Classifier&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
