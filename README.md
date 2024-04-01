@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tejas Redkar
 ====================================================================================================================================
 
-Data Analysis enthusiast | Full Stack Developer | Hackerrank 5⭐Python | Deep learning & Machine learning student
+Data Analysis enthusiast | Hackerrank 5⭐Python | Deep learning & Machine learning student
 ----------------------------------------------------------------------------------------------------------------
 
 Innovative Programmer & Python Enthusiast striving to make the world a more unified and connected place. A dedicated Data Analyst with craving for diving deep into the world of data and its wonders. Having Intermediate experience in frontend and backend development, also having interest in machine learning.
