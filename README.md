@@ -13,7 +13,10 @@ With a strong foundation in Mathematics and Computer Science, I have honed my sk
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-redkar21) [![Credly](https://img.shields.io/badge/credly-%23000000.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/tejas-redkar.21/badges) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-redkar21) [![Credly](https://img.shields.io/badge/credly-%23000000.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/tejas-redkar.21/badges)
+
+## HoloPin's
+[![An image of @tejred213's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejred213)](https://holopin.io/@tejred213)
 
 
 # 💻 Tech Stack:
@@ -25,9 +28,6 @@ With a strong foundation in Mathematics and Computer Science, I have honed my sk
 ![](https://github-readme-stats.vercel.app/api?username=tejred213&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tejred213&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejred213&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## HoloPin's
-[![An image of @tejred213's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejred213)](https://holopin.io/@tejred213)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tejred213&theme=ayu-mirage&no-frame=false&no-bg=true&margin-w=4)
