@@ -9,7 +9,7 @@ As a highly skilled and experienced Machine Learning student, I am dedicated to 
 With a strong foundation in Mathematics and Computer Science, I have honed my skills in data analysis, predictive modeling, and deep learning techniques. My experience includes working with large datasets and implementing advanced algorithms to extract meaningful insights and drive informed decision-making.
 
 * ✉️  You can contact me at [redkartejas213@gmail.com](mailto:redkartejas213@gmail.com)
-* 🏢  Currently working as a Project engineer at CDAC,Pune
+* 🏢  Currently working as a Test Analyst @ BNP Paribas
 
 
 ## 🌐 Socials:
